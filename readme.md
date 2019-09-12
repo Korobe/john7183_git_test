@@ -10,6 +10,7 @@ Spain
 
 A few programming classes + CMSE 201 + CMSE 202 + a lot of tinkering in high school.
 
-Julia Willison
+Titus Merriam merriamt@msu.edu
 
+Julia Willison
 willis51@msu.edu
